@@ -1,3 +1,4 @@
+window.alert("created by Mehmet ÇAY!");
 var s1 = document.getElementById('1');
 var s2 = document.getElementById('2');
 var s3 = document.getElementById('3');
